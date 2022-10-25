@@ -3,7 +3,7 @@ public class Operators {
         int valueA = 10;
     int valueB = 20
 
-    System.out.println(valuA/valueB);
+    System.out.println(valueA/valueB);
 
     }
     
