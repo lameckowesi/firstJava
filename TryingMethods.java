@@ -80,6 +80,7 @@ public class TryingMethods {
             }
             System.out.println(sum);
             return sum;
+            
         }
         public static int sumNumBtnThousand () {
             int sum = 0;
